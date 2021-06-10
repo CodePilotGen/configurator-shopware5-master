@@ -1,0 +1,2 @@
+# configurator-shopware5-master
+babylon_node_sample_module
